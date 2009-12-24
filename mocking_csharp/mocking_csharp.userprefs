@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ctype="Workspace" />
+  <MonoDevelop.Ide.DebuggingService>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RubySample.rb" ctype="Workbench">
+    <Files>
+      <File FileName="ClassWithInterface.cs" Line="10" Column="33" />
+      <File FileName="ClassWithoutInterface.cs" Line="12" Column="26" />
+      <File FileName="ImplementingConcreteDependency.cs" Line="2" Column="24" />
+      <File FileName="ImplementingMockableClass.cs" Line="13" Column="29" />
+      <File FileName="RubySample.rb" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="mocking_csharp" expanded="True">
+            <Node name="RubySample.rb" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
